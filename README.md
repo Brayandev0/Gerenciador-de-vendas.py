@@ -23,3 +23,10 @@ o Script possui um verificador e irá criar o arquivo de salvamento automaticame
 Telas das funções :
 
 Listar Todas as vendas :
+
+![image](https://github.com/Brayandev0/Gerenciador-de-vendas.py/assets/84828739/6d01dab4-4d10-41a1-a640-c95e4a2b20f6)
+
+
+Ver o Lucro líquido :
+
+![image](https://github.com/Brayandev0/Gerenciador-de-vendas.py/assets/84828739/1862c961-efe5-4cea-a888-3691d3491d66)

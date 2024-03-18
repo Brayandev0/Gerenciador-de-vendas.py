@@ -75,13 +75,13 @@ def adicionar_registros():
 #                            criando um dicionario de informações 
 #
         informacoes_de_venda ={"registro de venda": {
-                                "nome do cliente": nome,
-                                "data da venda": data,
-                                "tipo de pagamento": tipo_pagamento,
-                                "peças vendidas": pecas,
-                                "Numero da nota fiscal":Nfe,
-                                "gasto R$": valor_total,
-                                "lucro liquido R$": lucro_liquido,
+                                "nome do cliente       ": nome,
+                                "data da venda         ": data,
+                                "tipo de pagamento     ": tipo_pagamento,
+                                "peças vendidas        ": pecas,
+                                "Numero da nota fiscal ": Nfe,
+                                "gasto R$              ": valor_total,
+                                "lucro liquido R$      ": lucro_liquido,
                                 }}
 #-----------------------------------------------------------------------------
 #                       abrindo o arquivo e adicionando os valores 
